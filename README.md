@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Antonio H. Fonseca!</h1>
+<h1 align="center">Olá, Eu sou Antonio H. Fonseca! 💚</h1>
 
 <!-- Container com gif e estatísticas lado a lado -->
 <div align="center" style="border: 2px solid #1DB954; padding: 10px; border-radius: 10px; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
@@ -11,7 +11,7 @@
 
 </div>
 
-<h3>🚀 Technologies I use daily:</h3>
+<h3> Linguagens que eu uso: </h3>
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
