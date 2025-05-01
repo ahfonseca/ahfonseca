@@ -11,13 +11,13 @@
 
 </div>
 
-<h3> Linguagens que eu uso: </h3>
+<h3>🖥Linguagens que eu uso:</h3>
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </div>
-<h3>📫 How to reach me:</h3>
+<h3>📫Minhas Redes:</h3>
 <p align="center">
   <a href="mailto:antoniohdafonseca@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
